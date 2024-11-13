@@ -8,9 +8,6 @@ FullStack Developer
 * ✉️  You can contact me at [mr\_amirh@yahoo.com](mailto:mr_amirh@yahoo.com)
 * 🚀  I'm currently working on [OxinGame](http://OXINGAME.COM)
 
-<a href="https://www.x.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
-/></a>
 
 ### Skills
 
