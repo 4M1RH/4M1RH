@@ -6,7 +6,6 @@ FullStack Developer
 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [mr\_amirh@yahoo.com](mailto:mr_amirh@yahoo.com)
-* 🚀  I'm currently working on [OxinGame](http://OXINGAME.COM)
 
 
 
